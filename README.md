@@ -3,10 +3,10 @@
 
 ## 2025
 <b><a href="https://collective.flashbots.net/t/the-block-auction-infrastructure-race/4734">The Block Auction Infrastructure Race</a></b>\
-MEV block auctions have shifted dramatically over the past two years with latency becoming an increasingly important factor in determining who wins. How can we characterize this evolution and what can we footprint from public auction data?
+Empirical analysis on the increasing importance of latency in block building for mevboost auctions.
 
 <b><a href="https://x.com/Data_Always/status/1887574765038411791">Local block building and gas limit increases</a></b>\
----Placeholder---
+Why Ethereum’s Gas Limit Increase Favors MEV Builders While Leaving Solo Stakers Largely Unaffected
 
 ## 2024
 
@@ -17,37 +17,37 @@ Analyzing the reorg and reorging rates of different relays and how MEV auction s
 Blob market analysis during demand spikes and the potential impact of EIP-7762
 
 <b><a href="https://hackmd.io/@dataalways/censorship-resistance-today">Supplementing Censorship Resistance Today</a></b>\
----Placeholder---
+Why a Tuned LocalBlockValueBoost May Be the Best Near-Term Defense Against Ethereum Censorship
 
 <b><a href="https://hackmd.io/@dataalways/resilience">The Silhouette of Resilience</a></b>\
 Using discontinuities in MEV data to footprint which proposer sets leverage min-bid and what share of OFAC non-compliant blocks min-bid accounts for on the network.
 
 <b><a href="https://hackmd.io/@dataalways/latency-is-money">Latency is Money: Timing Games /acc</a></b>\
----Placeholder---
+Empirical analysis on timing games and who is playing them. 
 
 <b><a href="https://hackmd.io/@dataalways/HkUH7hZ26">Distortion of MEV Auctions by Withdrawals</a></b>\
----Placeholder---
+Empirical analysis on the prevalance of bid scoring distortions in mevboost auctions in support of mev-boost improvement proposal #0
 
 
 ## 2023
 
 <b><a href="https://dataalways.substack.com/p/the-year-in-blockspace-demand-2023">The Year in Blockspace Demand (2023)</a></b>\
----Placeholder---
+What blockchains did people use in 2023? And what did they use them for?
 
 <b><a href="https://dataalways.mirror.xyz/-m0-bp3aZpcqa15_QbMX3MD1v9xg7VCcfGtZBR7I9Bg">Timing Games - MEV CC 7</a></b>\
----Placeholder---
+Summary and commentary on mevboost community call #7
 
 <b><a href="https://ethresear.ch/t/the-influence-of-cefi-defi-arbitrage-on-mev-boost-auction-bid-profiles/17258">The Influence of CeFi-DeFi Arbitrage on MEV-Boost Auction Bid Profiles</a></b>\
----Placeholder---
+Empirical modelling of intrablock bid values during times of high price volatility to estimate the efficacy of MEV burn.
 
 <b><a href="https://dataalways.substack.com/p/rules-and-strategies-of-a-protocol">Rules and strategies of a protocol</a></b>\
----Placeholder---
+The path to and impact of MEV-Burn on Ethereum
 
 <b><a href="https://dataalways.substack.com/p/friendtech-speculation">Is it insane to speculate on Friend.Tech keys?</a></b>\
----Placeholder---
+Analysis of the impact of fees and bonding curves on FriendTech key speculation.
 
 <b><a href="https://dataalways.mirror.xyz/h0ro-UxIzQpesctpnO4i0TEJQ5nayNdMMUHEAf7to2Y">Explaining the Friend.Tech experience with Pokémon Blue</a></b>\
----Placeholder---
+Shitpost explaining the difference in experiences for FriendTech users with references to Pokemon for Gameboy.
 
 <b><a href="https://dataalways.substack.com/p/addendum-endgame-perils-of-restaking">Addendum: Endgame Perils of Restaking</a></b>\
 ---Placeholder---
