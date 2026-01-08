@@ -1,7 +1,18 @@
 # Archived Public Writings
 
-
 ## 2025
+<b><a href="https://collective.flashbots.net/t/how-the-mev-supply-chain-reacts-to-circuit-breakers/5439">How the MEV Supply Chain Reacts to Circuit Breakers</a></b>\
+Examining how the MEV Supply Chain responded to a forced PBS outage with Ethereum L1 falling back to local block building.
+
+<b><a href="https://collective.flashbots.net/t/a-consensus-layer-client-diversity-snapshot/5431">A Consensus Layer Client Diversity Snapshot</a></b>\
+Using relay metadata to model the change in consensus layer client diversity throughout 2025.
+
+<b><a href="https://collective.flashbots.net/t/the-geography-of-block-building/5367">The Geography of Block Buildingt</a></b>\
+Empirical analysis of the geographic strategy and latency profiles of block builders. Discussion of the change in market structure we can expect with ePBS.
+
+<b><a href="https://collective.flashbots.net/t/an-mev-perspective-on-glamsterdam/5116">An MEV Perspective on Glamsterdam </a></b>\
+An MEV-informed perspective on the headlining proposals for Glamsterdam, highlighting tradeoffs that are missing from the broader conversation, particularly as they relate to block building, auction design, censorship resistance, and geodecentralization.
+
 <b><a href="https://collective.flashbots.net/t/the-block-auction-infrastructure-race/4734">The Block Auction Infrastructure Race</a></b>\
 Empirical analysis on the increasing importance of latency in block building for mevboost auctions.
 
